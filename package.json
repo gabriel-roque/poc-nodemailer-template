@@ -1,0 +1,25 @@
+{
+  "name": "poc-nodemailer-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel-roque/poc-nodemailer-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriel-roque/poc-nodemailer-template/issues"
+  },
+  "homepage": "https://github.com/gabriel-roque/poc-nodemailer-template#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "email-templates": "^7.1.0",
+    "nodemailer": "^6.4.11"
+  }
+}

@@ -1,0 +1,3 @@
+Edit for easy in html and convert to pug
+https://html-to-pug.com/
+
